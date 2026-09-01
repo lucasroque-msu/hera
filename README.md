@@ -1,2 +1,3 @@
-# hera
-Class activity 5
+# Project HERA
+
+This is project **hera**!
